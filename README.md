@@ -1,2 +1,3 @@
 # Principal-Component-Analysis
-PCA Explained with Examples
+
+This repository is used to explain the theory and applications of **Principal Component Analysis**.
